@@ -1,4 +1,4 @@
-# Project Name (e.g., Arduino 4-Bit Binary Counter)
+# Arduino 4-Bit Binary Counter
 
 ## 📌 Overview
 Briefly describe what this project does. For example: *A 4-bit binary counter implemented on an Arduino Uno using C++. The system sequences through binary values from 0 (0000) to 15 (1111) using an array of 4 LEDs.*
